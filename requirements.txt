@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+sentencepiece
+datasets
+transformers
+sacrebleu
+accelerate
