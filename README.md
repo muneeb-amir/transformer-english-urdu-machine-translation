@@ -128,3 +128,12 @@ pip install -r requirements.txt
 * Dual approach: from-scratch + pretrained model
 * Strong comparative analysis with quantitative metrics
 * Efficient implementation with clear training dynamics
+
+## Results
+FINAL BLEU for both models
+<img width="713" height="420" alt="image" src="https://github.com/user-attachments/assets/f7c41021-00b6-4002-9415-789983fb33ae" />
+
+Sentence-level BLEU distribution comparison
+<img width="722" height="252" alt="image" src="https://github.com/user-attachments/assets/4cb3eb8e-91b2-4dab-96d5-a00c30989dc8" />
+
+
